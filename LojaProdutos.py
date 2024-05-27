@@ -23,3 +23,4 @@ elif produto == 3:
         print("Produto indisponível no momento.")
 else:
     print("Código do Produto Inválido.")
+#passei por aqui
